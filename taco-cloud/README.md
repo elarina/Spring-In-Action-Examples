@@ -25,4 +25,6 @@ Project was initialized with Spring Initializer by Spring Tool Suite for Eclipse
 
 # Usefull links
 
+Eclipse IDE - https://www.eclipse.org/downloads/
+
 Spring Tools Suite install - https://github.com/spring-projects/spring-tools/wiki/Installation
